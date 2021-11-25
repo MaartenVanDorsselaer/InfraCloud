@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Geolocator", "Geolocator\Geolocator.pyproj", "{F21B0836-043F-496F-B465-211F41A524FC}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "JSON Filtering Device Data", "JSON Filtering Device Data\JSON Filtering Device Data.pyproj", "{5D85748D-C783-4158-9684-0162CE50CD35}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "NMAP Filtering", "..\NMAP Filtering\NMAP Filtering\NMAP Filtering.pyproj", "{C5AD6FF6-215B-439F-B2C3-ADBA113B8575}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F21B0836-043F-496F-B465-211F41A524FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F21B0836-043F-496F-B465-211F41A524FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D85748D-C783-4158-9684-0162CE50CD35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D85748D-C783-4158-9684-0162CE50CD35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5AD6FF6-215B-439F-B2C3-ADBA113B8575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5AD6FF6-215B-439F-B2C3-ADBA113B8575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7BAAF30-778A-44C6-881B-A49E2C01BE53}
+	EndGlobalSection
+EndGlobal
